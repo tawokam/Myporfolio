@@ -785,7 +785,7 @@ section,
   content: "";
   position: absolute;
   display: block;
-  width: 64px;
+  width: 220px;
   height: 3px;
   background: var(--accent-color);
   left: 0;
